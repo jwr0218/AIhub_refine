@@ -6,4 +6,3 @@
 
 AIdata hub를 전처리하는 코드들은  dataset_aihub 내부 전처리 코드들이 있습니다. 
 
---
