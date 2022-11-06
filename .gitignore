@@ -1,0 +1,15 @@
+TextFuseNet/datasets_aihub/training
+
+TextFuseNet/datasets_aihub/validation
+
+TextFuseNet/datasets
+
+TextFuseNet/detect_text_custom/cropped_box
+
+TextFuseNet/detect_text_custom/new_cropped_box
+
+TextFuseNet/detect_text_custom/test_full
+
+TextFuseNet/out_dir_r101
+
+TextFuseNet/detect_text_custom/custom.pth

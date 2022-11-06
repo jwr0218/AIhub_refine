@@ -1,0 +1,683 @@
+Config '/workspace/TextDetection/TextFuseNet/detect_text_custom/configs/custom.yaml' has no VERSION. Assuming it to be compatible with latest v2.
+현재 진행사항 0/49252: 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1011_00339.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_824_00046.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1232_00103.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1011_00373.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h3_1221_01257.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1215_00327.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1115_00805.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1016_01069.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_821_02247.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1126_00095.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_822_01143.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1121_00089.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1127_00120.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1012_00658.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1111_00488.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1016_01669.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1010_00114.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_02189.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_822_02117.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_824_00018.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_721_00291.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1016_00452.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1012_00068.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_721_00982.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h2_1116_00022.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1015_01787.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e6_622_00294.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e6_611_00221.png
+교집합이 발생 했습니다. 
+오류 발생, pass 합니다.
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_913_00145.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_711_00229.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_02125.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_814_00045.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_04232.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e5_521_00365.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1010_00020.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_03347.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1213_00270.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1217_00234.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1111_00062.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1225_00009.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_822_00550.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1114_00078.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_922_00097.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1026_00325.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_813_00209.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1016_00381.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_03597.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1015_01721.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1116_00297.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_911_00533.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1015_01254.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_00862.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_03853.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1025_00291.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1116_00136.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_921_00557.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_822_00233.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e6_621_00096.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_724_00068.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1116_00043.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_711_00716.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_e4_413_00035.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1015_00429.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_04490.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_01028.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h2_1115_00030.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1010_00684.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1023_00273.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e5_524_00024.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_921_00015.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1113_00734.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1114_00079.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1116_00088.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_714_00202.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1026_00017.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_01507.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1018_00041.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_01549.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1126_00023.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1115_00574.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_912_00060.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1112_00299.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1016_00654.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_03394.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1115_00248.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_712_00558.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_03884.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h2_1111_00047.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_00911.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_714_00835.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_02891.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_821_00147.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1019_00464.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_814_00029.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_01578.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_715_00080.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1014_00498.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_821_00883.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1113_01599.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_01784.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1010_00465.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1014_00767.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_714_00539.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_714_01018.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1022_00071.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_821_00017.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1015_00248.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1122_00346.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_813_00478.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1016_00210.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1021_00035.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1015_00434.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_711_01231.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_712_00744.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_914_00064.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1021_00816.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1017_00086.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_02053.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1115_00389.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h3_1221_00466.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_711_00616.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_713_00243.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_03860.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_02009.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_02432.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_921_00022.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_812_00099.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_e4_423_00054.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_821_00241.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_814_00162.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_821_00538.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_02969.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1023_00238.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_00381.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_914_00011.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_711_00133.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1017_01026.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1016_00433.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_01317.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_922_01478.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_723_00715.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1121_00033.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_00826.png
+교집합이 발생 했습니다. 
+오류 발생, pass 합니다.
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_00926.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1114_00225.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_821_00796.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1010_00714.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_01408.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1115_01789.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1116_00874.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1011_00432.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1113_00498.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_723_00141.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_00815.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1015_00596.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_02482.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e6_625_00194.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h3_1216_00212.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1015_00044.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e5_514_00507.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_922_00360.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_713_00034.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1023_00770.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_02874.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1121_01376.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1025_00835.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1224_00009.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_923_00052.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_721_01658.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1122_00062.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_921_00213.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_721_00243.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_03399.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1026_00240.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_712_00136.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_711_04802.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1121_01185.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_01424.png
+교집합이 발생 했습니다. 
+오류 발생, pass 합니다.
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_911_00388.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_721_02139.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_e5_522_00294.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_711_00165.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1112_00525.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_711_00014.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_715_00091.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1125_00310.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1125_00775.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1126_00161.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1116_00434.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1231_00264.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1112_00168.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_921_00127.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_814_00041.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_913_00051.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_03272.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_02825.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1127_00017.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_914_00246.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_711_00030.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1113_00530.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1127_00216.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_912_00178.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_01366.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_714_00062.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_723_01952.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1233_00102.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_813_00345.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1112_00181.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1015_00244.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h2_1125_00016.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_713_00087.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1113_00540.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1113_00540.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_01741.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_815_00137.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_711_01053.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_815_00289.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_04684.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_812_00001.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1116_01017.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_921_00303.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1233_00197.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1012_00270.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_00637.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1125_03124.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1113_00206.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_715_01537.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1115_00412.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_921_00387.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_00245.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_822_00123.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_715_00006.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1122_00340.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_01004.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_711_00117.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1010_00047.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_00052.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_822_00056.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_921_00259.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_01962.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1023_00112.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_824_00081.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_914_00369.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_e6_613_00074.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1111_00111.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_822_00477.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_723_01181.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_822_00095.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_01614.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1116_01576.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_715_00918.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_914_00316.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1012_00046.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_00329.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1016_00476.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1113_00268.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1216_00191.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_814_00552.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_821_02135.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1026_00383.png
+교집합이 발생 했습니다. 
+/opt/conda/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /opt/conda/conda-bld/pytorch_1646755903507/work/aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1023_00618.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_824_00136.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_822_00400.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1214_00186.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1010_00892.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1112_00117.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1125_00382.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1011_00183.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1015_00054.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1025_00001.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1011_01068.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h3_1233_00782.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_814_00219.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_714_03767.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_822_00062.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_02149.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_722_00756.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1125_03664.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1113_00459.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_01429.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1224_00259.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1115_01986.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1010_00014.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_h1_1024_00063.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1113_00242.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_921_00801.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_00284.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1018_01770.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m3_914_00034.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h3_1221_00151.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1019_02447.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_712_00921.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1126_00157.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_00470.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1026_00022.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h3_1215_00213.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1021_01390.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1126_00058.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_822_00620.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1121_00473.png
+교집합이 발생 했습니다. 
+오류 발생, pass 합니다.
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_01450.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_713_00199.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m2_822_00536.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1116_00875.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h2_1111_00390.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_922_00870.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1121_00555.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m3_912_00070.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1014_00322.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m3_913_00610.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_h1_1022_00367.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m1_711_03285.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m2_822_00176.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1115_01844.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_m2_821_03640.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1116_01473.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h1_1023_01951.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_01084.png
+교집합이 발생 했습니다. 
+오류 발생, pass 합니다.
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1114_01084.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HA_m1_723_00095.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_P_m1_711_00669.png
+교집합이 발생 했습니다. 
+/workspace/TextDetection/TextFuseNet/datasets_aihub/training/images/M_HS_h2_1124_00278.png
+교집합이 발생 했습니다. 
+Traceback (most recent call last):
+  File "custom_detection.py", line 260, in <module>
+    prediction, vis_output, polygons = detection_demo.run_on_image(img)
+  File "/workspace/TextDetection/TextFuseNet/detect_text_custom/predictor.py", line 48, in run_on_image
+    predictions = self.predictor(image)
+  File "/opt/conda/lib/python3.8/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/engine/defaults.py", line 183, in __call__
+    predictions = self.model([inputs])[0]
+  File "/opt/conda/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/meta_arch/rcnn.py", line 66, in forward
+    return self.inference(batched_inputs)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/meta_arch/rcnn.py", line 124, in inference
+    results, _ = self.roi_heads(images, features, proposals, None)
+  File "/opt/conda/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/roi_heads/roi_heads.py", line 591, in forward
+    pred_instances = self.forward_with_given_boxes(features, pred_instances)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/roi_heads/roi_heads.py", line 616, in forward_with_given_boxes
+    instances = self._forward_mask(features, instances)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/roi_heads/roi_heads.py", line 704, in _forward_mask
+    seg_logits,global_context = self.seg_head(features, self.fpn_features_fused_level, pred_boxes, image_shape)
+  File "/opt/conda/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/workspace/TextDetection/TextFuseNet/detectron2/modeling/roi_heads/seg_head.py", line 85, in forward
+    feature_pred = F.interpolate(feature_fuse, size=image_shape, mode='bilinear', align_corners=True)
+  File "/opt/conda/lib/python3.8/site-packages/torch/nn/functional.py", line 3919, in interpolate
+    return torch._C._nn.upsample_bilinear2d(input, output_size, align_corners, scale_factors)
+RuntimeError: CUDA out of memory. Tried to allocate 4.05 GiB (GPU 0; 15.74 GiB total capacity; 880.50 MiB already allocated; 3.83 GiB free; 1.37 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
